@@ -1,5 +1,5 @@
 ### Steps to setup the project
-make setup
+make setup <br/>
 make run
 
 ### Tasks completed
